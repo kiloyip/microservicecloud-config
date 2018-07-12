@@ -1,7 +1,5 @@
 server:
   port: 8081
-  
-env: dev 
 
 mybatis:
   config-location: classpath:mybatis/mybatis.cfg.xml  #mybatis所在路径
