@@ -22,3 +22,6 @@ eureka:
      
 env:
   dev1
+
+foo:
+  version1
